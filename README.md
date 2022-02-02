@@ -114,7 +114,7 @@ below 60       F
 ## Question No.17
 Develop a program to read two pairs of integers. Each pair represents a fraction. For example, the pair 3 5 represents the fraction  3 / 5. Your program should then print the sum of the given fractions. 
 
-For example, given the pairs of 3 5 and 2 3 , your program should print 19/15
+For example, given the pairs of 3 5 and 2 3 , your program should print 19/15  
 3   +   2          =  19  
 5 	    3             15  
 
