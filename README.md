@@ -91,10 +91,11 @@ For example, if the weights are 3kg 500g and 4kg 700g , your program should prin
 
 ## Question No.15
 A home mortgage authority requires a deposit on a home loan according to the following schedule:
-**Loan $**              **Deposit**
-less than $25 000       5% of the loan value
-$25 000–$49 999         $1250 + 10% of loan over $25 000
-$50 000–$100 000        $5000 + 25% of loan over $50 000
+| Loan $            |   Deposit                             |
+| ----------------- | ------------------------------------- |
+| less than $25 000 |   5% of the loan value                |
+| $25 000–$49 999   |   $1250 + 10% of loan over $25 000    |
+| $50 000–$100 000  |   $5000 + 25% of loan over $50 000    |
 
 Loans in excess of $100 000 are not allowed. Develop a program that will read Loan
 amount and compute and print the required deposit.
@@ -103,19 +104,19 @@ amount and compute and print the required deposit.
 ## Question No.16
 Design a program that will prompt an operator for a student name, number and the student's exam score out of 100. Your program is then to match the exam score to a letter grade and print the grade on the screen. Calculate the letter grade as follows:
 
-90 and above   A
-80–89.9        B
-70–79.9        C
-60–69.9        D
-below 60       F
+90 and above   A  
+80–89.9        B  
+70–79.9        C  
+60–69.9        D  
+below 60       F  
 
 
 ## Question No.17
 Develop a program to read two pairs of integers. Each pair represents a fraction. For example, the pair 3 5 represents the fraction  3 / 5. Your program should then print the sum of the given fractions. 
 
 For example, given the pairs of 3 5 and 2 3 , your program should print 19/15
-3   +   2          =  19
-5 	    3             15
+3   +   2          =  19  
+5 	    3             15  
 
 
 ## Question No.18
